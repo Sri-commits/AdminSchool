@@ -1,0 +1,55 @@
+[{
+        "employeeId": 1,
+        "firstName": "Fabrice",
+        "lastName": "Wong",
+        "section": "Morning"
+    },
+    {
+        "employeeId": 5,
+        "firstName": "James",
+        "lastName": "Robert",
+        "section": "Day"
+    },
+    {
+        "employeeId": 10,
+        "firstName": "Maria",
+        "lastName": "Klein",
+        "section": "Day"
+    },
+    {
+        "employeeId": 15,
+        "firstName": "Alaister",
+        "lastName": "Leroy",
+        "section": "Afternoon"
+    },
+    {
+        "employeeId": 20,
+        "firstName": "Sebastien",
+        "lastName": "Nidd",
+        "section": "Morning"
+    },
+    {
+        "employeeId": 25,
+        "firstName": "Jean",
+        "lastName": "Baptiste",
+        "section": "Day"
+    },
+    {
+        "employeeId": 30,
+        "firstName": "Olivierra",
+        "lastName": "Yeung",
+        "section": "Afternoon"
+    },
+    {
+        "employeeId": 35,
+        "firstName": "Jessica",
+        "lastName": "Francois",
+        "section": "Day"
+    },
+    {
+        "employeeId": 40,
+        "firstName": "Marriane",
+        "lastName": "Vargues",
+        "section": "Morning"
+    }
+]

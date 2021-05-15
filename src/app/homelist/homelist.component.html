@@ -1,0 +1,35 @@
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Home List</h1>
+
+
+    <!-- DataTables Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Please Select The Category</h6>
+        </div>
+        <div class="card-body">
+            <ul>
+                <li class="nav-item active">
+                    <a class="nav-link" [routerLink]="['teacher']">
+                        <i class="fas fa-fw fa-table"></i>
+                        <span>Teacher</span></a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" [routerLink]="['student']">
+                        <i class="fas fa-fw fa-table"></i>
+                        <span>Student</span></a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" [routerLink]="['staff']">
+                        <i class="fas fa-fw fa-table"></i>
+                        <span>Non Teaching Stuff</span></a>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+
+</div>
+<!-- /.container-fluid -->
