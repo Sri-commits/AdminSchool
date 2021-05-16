@@ -5,7 +5,7 @@ import { PagenotfoundComponent } from './components/pagenotfound/pagenotfound.co
 import { ProfiledetailsComponent } from './components/profiledetails/profiledetails.component';
 import { StafflistComponent } from './components/stafflist/stafflist.component';
 import { StudentlistComponent } from './components/studentlist/studentlist.component';
-import { TeacherlistComponent } from './teacherlist/teacherlist.component';
+import { TeacherlistComponent } from './components/teacherlist/teacherlist.component';
 
 
 const routes: Routes = [];

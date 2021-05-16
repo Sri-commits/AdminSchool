@@ -4,7 +4,7 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { TeacherlistComponent } from './teacherlist/teacherlist.component';
+import { TeacherlistComponent } from './components/teacherlist/teacherlist.component';
 import { TopbarComponent } from './components/topbar/topbar.component';
 import { SidebarComponent } from './components/sidebar/sidebar.component';
 import { FooterComponent } from './components/footer/footer.component';
@@ -15,9 +15,6 @@ import { ProfiledetailsComponent } from './components/profiledetails/profiledeta
 import { PagenotfoundComponent } from './components/pagenotfound/pagenotfound.component';
 import { HttpClientModule } from '@angular/common/http';
 import { RestService } from './service/rest.service';
-import { Ng2OrderModule } from 'ng2-order-pipe';
-import { Ng2SearchPipeModule } from 'ng2-search-filter';
-import { NgxPaginationModule } from 'ngx-pagination';
 import { FormsModule } from '@angular/forms';
 
 
@@ -38,9 +35,6 @@ import { FormsModule } from '@angular/forms';
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    Ng2OrderModule,
-    Ng2SearchPipeModule,
-    NgxPaginationModule,
     FormsModule,
   ],
   providers: [

@@ -2,54 +2,81 @@
         "employeeId": 1,
         "firstName": "Fabrice",
         "lastName": "Wong",
-        "section": "Morning"
+        "phone": "7865432567",
+        "section": "Morning",
+        "gender": "Male",
+        "salary": 12000
     },
     {
         "employeeId": 5,
         "firstName": "James",
         "lastName": "Robert",
-        "section": "Day"
+        "phone": "7890654345",
+        "section": "Day",
+        "gender": "Male",
+        "salary": 5000
     },
     {
         "employeeId": 10,
         "firstName": "Maria",
         "lastName": "Klein",
-        "section": "Day"
+        "phone": "7890654324",
+        "section": "Day",
+        "gender": "Female",
+        "salary": 15000
     },
     {
         "employeeId": 15,
         "firstName": "Alaister",
         "lastName": "Leroy",
-        "section": "Afternoon"
+        "phone": "9876890765",
+        "section": "Afternoon",
+        "gender": "Male",
+        "salary": 18000
     },
     {
         "employeeId": 20,
         "firstName": "Sebastien",
         "lastName": "Nidd",
-        "section": "Morning"
+        "phone": "2345654321",
+        "section": "Morning",
+        "gender": "Male",
+        "salary": 20000
     },
     {
         "employeeId": 25,
         "firstName": "Jean",
         "lastName": "Baptiste",
-        "section": "Day"
+        "phone": "6543789654",
+        "section": "Day",
+        "gender": "Male",
+        "salary": 3000
     },
     {
         "employeeId": 30,
         "firstName": "Olivierra",
         "lastName": "Yeung",
-        "section": "Afternoon"
+        "phone": "8903234321",
+        "section": "Afternoon",
+        "gender": "Female",
+        "salary": 13000
     },
     {
         "employeeId": 35,
-        "firstName": "Jessica",
+        "firstName": "jessica",
         "lastName": "Francois",
-        "section": "Day"
+        "phone": "8976545678",
+        "section": "Day",
+        "gender": "Female",
+        "salary": 9000
     },
     {
         "employeeId": 40,
-        "firstName": "Marriane",
+        "firstName": "Claudine",
         "lastName": "Vargues",
-        "section": "Morning"
+        "phone": "9876589098",
+        "section": "Morning",
+        "gender": "Female",
+        "salary": 8000
     }
 ]
