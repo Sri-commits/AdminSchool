@@ -1,11 +1,11 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { HomelistComponent } from './homelist/homelist.component';
-import { PagenotfoundComponent } from './pagenotfound/pagenotfound.component';
-import { ProfiledetailsComponent } from './profiledetails/profiledetails.component';
-import { StafflistComponent } from './stafflist/stafflist.component';
-import { StudentlistComponent } from './studentlist/studentlist.component';
-import { TeacherlistComponent } from './teacherlist/teacherlist.component';
+import { HomelistComponent } from './components/homelist/homelist.component';
+import { PagenotfoundComponent } from './components/pagenotfound/pagenotfound.component';
+import { ProfiledetailsComponent } from './components/profiledetails/profiledetails.component';
+import { StafflistComponent } from './components/stafflist/stafflist.component';
+import { StudentlistComponent } from './components/studentlist/studentlist.component';
+import { TeacherlistComponent } from './components/teacherlist/teacherlist.component';
 
 
 const routes: Routes = [];
